@@ -1,8 +1,8 @@
 # Site settings
 name: Minh-Phuc Bui
 title: Minh-Phuc Bui | Front End Web Developer
-description: You're about to join a journal in the world of Minh-Phuc Bui - a front-end developer focused on building lively interfaces & experiences.
-url: https://phucbm.github.io/
+description: Minh-Phuc Bui - a front-end developer focused on building lively interfaces & experiences.
+url: https://buiminhphuc.com
 baseurl: 'https://buiminhphuc.com'
 email: hiphucbui@gmail.com
 cover: /img/og.png

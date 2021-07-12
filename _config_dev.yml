@@ -1,26 +1,22 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Minh-Phuc Bui
+title: Minh-Phuc Bui | Front End Web Developer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+url: https://phucbm.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: hiphucbui@gmail.com
+cover: https://phucbm.github.io/img/og.png
+logo: https://phucbm.github.io/img/avatar.png
+resume: https://www.linkedin.com/in/phucbm/
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
+    url: mailto:hiphucbui@gmail.com
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/phucbui
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/phucbm
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/phucbm
 
 # Build settings
 markdown: kramdown

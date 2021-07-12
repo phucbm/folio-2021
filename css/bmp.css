@@ -1,0 +1,21 @@
+.featured-projects .project__pic {width:100%;}
+
+.bmp-video {
+    position:relative; padding-top:56%;
+    --border:15px;
+}
+.bmp-video-inner {
+    position:absolute; top:0; left:0; right:0; bottom:0;
+    border:var(--border) solid #000; border-radius:var(--border); overflow:hidden;
+    transform:translateZ(0);
+}
+.bmp-video video {object-fit:cover; width:100%;}
+
+
+@media only screen and (max-width:1024px) {
+    .bmp-video {--border:10px;}
+}
+
+@media only screen and (max-width:400px) {
+    .bmp-video {--border:7px;}
+}

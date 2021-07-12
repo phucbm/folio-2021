@@ -3,14 +3,16 @@ name: Minh-Phuc Bui
 title: Minh-Phuc Bui | Front End Web Developer
 description: You're about to join a journal in the world of Minh-Phuc Bui - a front-end developer focused on building lively interfaces & experiences.
 url: https://phucbm.github.io/
-baseurl: ''
+baseurl: 'https://buiminhphuc.com'
 email: hiphucbui@gmail.com
-cover: https://phucbm.github.io/img/og.png
-logo: https://phucbm.github.io/img/avatar.png
+cover: /img/og.png
+logo: /img/avatar.png
 resume: https://www.linkedin.com/in/phucbm/
 social:
   - title: email
     url: mailto:hiphucbui@gmail.com
+  - title: blog
+    url: https://frontend101.com/
   - title: codepen
     url: http://codepen.io/phucbui
   - title: github

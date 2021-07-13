@@ -1,5 +1,6 @@
 .featured-projects .project__pic {width:100%;}
 
+/* video thumbnail */
 .bmp-video {
     position:relative; padding-top:56%;
     --border:15px;
@@ -11,11 +12,15 @@
 }
 .bmp-video video {object-fit:cover; width:100%;}
 
-
 @media only screen and (max-width:1024px) {
     .bmp-video {--border:10px;}
 }
 
 @media only screen and (max-width:400px) {
     .bmp-video {--border:7px;}
+}
+
+/* footer */
+@media screen and (min-width: 631px){
+    .footer__copyright {width:230px;}
 }

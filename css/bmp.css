@@ -20,6 +20,9 @@
     .bmp-video {--border:7px;}
 }
 
+/* featured projects */
+.project__name span {font-weight:700; color:#fff;}
+
 /* footer */
 @media screen and (min-width: 631px){
     .footer__copyright {width:230px;}

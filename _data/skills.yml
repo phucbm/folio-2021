@@ -1,18 +1,19 @@
 languages:
   - item: JavaScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: HTML/CSS
   - item: PHP
   - item: Liquid
+  - item: A little bit of Japanese
+  - item: And tiny bit of Mandarin
 
 frameworks:
   - item: GSAP
   - item: WordPress
   - item: Jekyll
+  - item: Phaser
   - item: Shopify
 
 tools:
-  - item: Git, Gitub & Gitlab
-  - item: Chrome DevTools
+  - item: Git (GitHub & GitLab)
   - item: Chrome Extensions
   - item: PhpStorms

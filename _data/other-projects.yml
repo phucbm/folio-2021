@@ -1,19 +1,43 @@
-- name: Cursor Effects
-  url: https://github.com/phucbm/cursor-effects
-  code: https://github.com/phucbm/cursor-effects
-  description: Several interesting effects which interact with mouse cursor.
+- name: Aberto
+  url: https://phucbm.github.io/aberto/
+  code: https://github.com/phucbm/aberto
+  description: 🪄🚪👐 Static blog engine powered by Jekyll.
   used:
+    - thing: Jekyll
+    - thing: GitHub Pages
+    - thing: Liquid
+
+- name: IcoMoon for Advanced Custom Fields
+  url: https://wordpress.org/plugins/acf-icomoon/
+  code: https://github.com/viivue/acf-icomoon
+  description: 🔩 Advanced Custom Field add-on to select IcoMoon
+  used:
+    - thing: WordPress Plugin
+    - thing: PHP
+
+- name: Easy Select
+  url: https://viivue.github.io/easy-select/
+  code: https://github.com/viivue/easy-select
+  description: ❄️ Customizing select is easier than ever 🎉
+  used:
+    - thing: jQuery Plugin
     - thing: JavaScript
-    - thing: GreenSock
+
+- name: Lipsum Generator
+  url: https://chrome.google.com/webstore/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna
+  code: https://github.com/phucbm/lipsum-generator
+  description: A simple Chrome Extension to create lorem ipsum text.
+  used:
+    - thing: Chrome Extension
+    - thing: JavaScript
 
 - name: Scroll Direction
   url: https://github.com/phucbm/jquery-scroll-direction-plugin
   code: https://github.com/phucbm/jquery-scroll-direction-plugin
   description: A lightweight jQuery plugin to detect scroll direction on your website.
   used:
-    - thing: jQuery
+    - thing: jQuery Plugin
     - thing: JavaScript
-    - thing: locomotive-scroll
 
 - name: Easy Earth
   url: https://easyearth.com/
@@ -21,20 +45,4 @@
   description: EasyEarth began with one ambitious goal - protect the Earth.
   used:
     - thing: Shopify
-    - thing: JavaScript
-
-- name: Lipsum Generator
-  url: https://github.com/phucbm/lipsum-generator
-  code: https://github.com/phucbm/lipsum-generator
-  description: A simple Chrome Extension to create lorem ipsum text.
-  used:
-    - thing: Chrome Extension
-    - thing: JavaScript
-
-- name: VND Converter
-  url: https://github.com/phucbm/vnd-converter
-  code: https://github.com/phucbm/vnd-converter
-  description: Convert foreign currencies to VND in a drop of a hat.
-  used:
-    - thing: Chrome Extension
-    - thing: JavaScript
+    - thing: Liquid

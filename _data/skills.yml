@@ -3,17 +3,18 @@ languages:
   - item: HTML/CSS
   - item: PHP
   - item: Liquid
-  - item: A little bit of Japanese
-  - item: And tiny bit of Mandarin
+  - item: 日本語がちょっとできる
+  - item: 中文也学过一点
 
 frameworks:
   - item: GSAP
-  - item: WordPress
-  - item: Jekyll
   - item: Phaser
+  - item: Jekyll
+  - item: WordPress
   - item: Shopify
 
 tools:
   - item: Git (GitHub & GitLab)
+  - item: Gulp/Webpack
   - item: Chrome Extensions
   - item: PhpStorms

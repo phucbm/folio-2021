@@ -1,12 +1,3 @@
-- name: Aberto
-  url: https://phucbm.github.io/aberto/
-  code: https://github.com/phucbm/aberto
-  description: 🪄🚪👐 Static blog engine powered by Jekyll.
-  used:
-    - thing: Jekyll
-    - thing: GitHub Pages
-    - thing: Liquid
-
 - name: IcoMoon for Advanced Custom Fields
   url: https://wordpress.org/plugins/acf-icomoon/
   code: https://github.com/viivue/acf-icomoon
@@ -23,14 +14,6 @@
     - thing: jQuery Plugin
     - thing: JavaScript
 
-- name: Lipsum Generator
-  url: https://chrome.google.com/webstore/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna
-  code: https://github.com/phucbm/lipsum-generator
-  description: A simple Chrome Extension to create lorem ipsum text.
-  used:
-    - thing: Chrome Extension
-    - thing: JavaScript
-
 - name: Scroll Direction
   url: https://github.com/phucbm/jquery-scroll-direction-plugin
   code: https://github.com/phucbm/jquery-scroll-direction-plugin
@@ -38,11 +21,3 @@
   used:
     - thing: jQuery Plugin
     - thing: JavaScript
-
-- name: Easy Earth
-  url: https://easyearth.com/
-  code: https://easyearth.com/
-  description: EasyEarth began with one ambitious goal - protect the Earth.
-  used:
-    - thing: Shopify
-    - thing: Liquid

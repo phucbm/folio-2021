@@ -4,6 +4,7 @@
   description: 🔩 Advanced Custom Field add-on to select IcoMoon
   used:
     - thing: WordPress Plugin
+    - thing: Vue3
     - thing: PHP
 
 - name: Easy Select

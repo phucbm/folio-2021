@@ -7,6 +7,7 @@ languages:
   - item: 中文也学过一点
 
 frameworks:
+  - item: Vue3
   - item: GSAP
   - item: Phaser
   - item: Jekyll
@@ -15,6 +16,6 @@ frameworks:
 
 tools:
   - item: Git (GitHub & GitLab)
-  - item: Gulp/Webpack
+  - item: npm/Gulp
   - item: Chrome Extensions
   - item: PhpStorms
